@@ -10,3 +10,4 @@ restaurante_brasil = Restaurante('brasil', 'cultural')
 restaurantes = [restaurante_brasil, restaurante_panama]
 
 print(restaurante_brasil)
+print(restaurante_panama)
